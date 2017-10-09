@@ -1,0 +1,15 @@
+.log {
+    margin: 20px 0px 0px 30px;
+}
+
+.log > table {
+    width: 600px;
+}
+  
+.entry .message {
+    width: 70%;
+}
+  
+.entry .tag {
+    margin: 10px 10px 10px 10px;
+}
